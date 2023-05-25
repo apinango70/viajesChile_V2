@@ -1,16 +1,8 @@
 /* chequeo de boundaries */
-#barraNavegacion {
+/* #barraNavegacion {
   outline: 1px solid red;
-} 
+}  */
 
-body{
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-  text-align: center;
-  background-color:#e6e7ee;
-  color: white;
-}
  
 #quienesSomos h2{
   margin: 1em 0 0.5em;
@@ -26,18 +18,9 @@ h5{
   text-align: center;
 }
 
-.carta{
-    background-color: #17A3B8;
-    width: auto;
-    height: 31.25em;
-    margin-left: 5%;
-    margin-right: 5%;
  
-  }
 
-.card-text{
-  text-align: left;
-}
+ 
 
 .c2 img{
   height: 45%!important;
@@ -48,10 +31,10 @@ h5{
   text-align: center;
 }
 
-
 .formulario {
   margin: 0 8.125em 2em 7.5em;
   text-align: left;
 }
+
 
  
